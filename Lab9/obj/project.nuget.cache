@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YO1VddHH9DysvajBKWSGK17gyfSk9ywr8iZK/H4ISFG/AtB888XUZp9cEQTO1aBe3SwcNoXg9dDZ6hy63Uxpvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oribe\\Documents\\SAIT\\OOP C#\\Lab9\\Lab9\\Lab9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oribe\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
